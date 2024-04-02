@@ -6,5 +6,4 @@ This is a classification project using KNN method. The data has been downloaded 
 
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-
 ![ML](https://img.shields.io/badge/Machine_Learning-green)
